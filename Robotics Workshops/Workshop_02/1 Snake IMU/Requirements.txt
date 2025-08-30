@@ -1,0 +1,4 @@
+pip install pygame
+pip install pynput
+pip install serial
+pip install pyserial
